@@ -1,0 +1,16 @@
+#App{
+  width: 1200px;
+  height: 700px;
+  margin: 0 auto;
+  background-color: aqua;
+}
+
+.pointer{
+  cursor: pointer;
+}
+.pointer:hover{
+  background-color: beige;
+}
+h4{
+  margin: 0;
+}
